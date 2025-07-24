@@ -13,7 +13,7 @@ const quiz = [
         ans2text: "Donald Trump",
         ans3text: "Barack Obama",
         ans4text: "George Bush",
-        answer: "Joe Biden",
+        answer: "Donald Trump",
     },{
         question: "What does HTML stand for?",
         ans1text: "Hypertext Markup Language",
